@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahbub Sajon</h1>
 <h3 align="center">A passionate MERN-Stack developer.</h3>
-<img align="right" width="400" alt="Coding" src="https://www.technospace.ae/wp-content/themes/technospace/assets/img/system.gif"/>
+<img align="right" width="400" alt="Coding" src="[https://www.technospace.ae/wp-content/themes/technospace/assets/img/system.gif](https://i.ibb.co.com/WsJHCkd/68747470733a2f2f7777772e746563686e6f73706163652e61652f77702d636f6e74656e742f7468656d65732f746563686e.gif)"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbub-sajon&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub-sajon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahbub-sajon" alt="mahbub-sajon" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN-Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://mahbub-sajon-portfolio.netlify.app/](https://mahbub-sajon-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mahbub-sajon.netlify.app/](https://mahbub-sajon.netlify.app/)
 
 - 💬 Ask me about **react js, node js, express js etc**
 
